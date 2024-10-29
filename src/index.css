@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "M PLUS 1 Code", monospace;
+}
+
+body {
+  background-color: black;
+  color: white;
+}
+
+img:hover {
+  cursor: pointer;
+  scale: 1.01;
+  transition: all 0.2s ease-in-out;
+}
