@@ -21,9 +21,10 @@ const Home = () => {
           initial={{ opacity: 0, y: 50 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5, ease: "easeInOut", delay: 0.5 }}
-          className="text-2xl text-gray-500 mt-2"
+          className="text-xl md:text-2xl text-gray-500 mt-2 w-full lg:max-w-[80%]"
         >
-          A student led 501(c)(3) non-profit.
+          A student-led 501(c)(3) non-profit committed to providing STEM
+          education and resources to all.
         </motion.p>
         <motion.span
           initial={{ opacity: 0, y: 50 }}

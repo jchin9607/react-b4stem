@@ -14,8 +14,8 @@ body {
   color: white;
 }
 
-img:hover {
+/* img:hover {
   cursor: pointer;
   scale: 1.01;
   transition: all 0.2s ease-in-out;
-}
+} */

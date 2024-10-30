@@ -49,7 +49,7 @@ const Team = () => {
               alt={person.name}
               className="w-[300px] h-[400px]  object-cover rounded"
             />
-            <p className="text-2xl text-gray-500">{person.name}</p>
+            <p className="text-2xl text-white">{person.name}</p>
           </motion.div>
         ))}
       </div>
