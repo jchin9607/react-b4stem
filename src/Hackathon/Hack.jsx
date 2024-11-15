@@ -15,7 +15,7 @@ const Hack = () => {
             New Balance Community Room @ PSF
           </a>
         </p>
-        <p>Open to all high schoolers! No experience required.</p>
+        <p className="text-3xl text-gray-500 ">Open to all high schoolers! No experience required.</p>
         <a href="https://forms.gle/xUTVTu2ATSnHb4MJ7" target="_blank">
           <div className=" hover:bg-gray-900 text-gray-500 font-semibold py-2 px-4 border border-gray-500 rounded shadow text-sm h-full flex justify-center items-center ">
             Register
