@@ -6,7 +6,7 @@ const Hack = () => {
       <div className="w-full min-h-screen bg-black text-white flex justify-center items-center text-5xl flex-col p-[15%] gap-6 text-center">
         <h1 className="text-6xl">B4STEM Hackathon</h1>
         <p className="text-3xl text-gray-500 ">
-          Dec 30, 1:30PM - 9:30PM,{" "}
+          Dec 29, 1:30PM - 9:30PM,{" "}
           <a
             href="https://g.co/kgs/DfskKVT"
             target="_blank"
