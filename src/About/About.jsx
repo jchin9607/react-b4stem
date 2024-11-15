@@ -35,7 +35,7 @@ const About = () => {
         viewport={{ once: true }}
         className="text-2xl text-gray-500"
       >
-        We are a fiscal non-profit sponsored by Hack Plus
+        We are a fiscal non-profit sponsored by Hack Club
       </motion.p>
       <motion.img
         src="https://images.unsplash.com/photo-1606373664971-bf9b25eb508d?q=80&w=1971&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
