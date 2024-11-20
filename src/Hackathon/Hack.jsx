@@ -78,6 +78,48 @@ const Hack = () => {
           </div>
         </div>
       </div>
+      <div className="w-full  bg-black text-white flex justify-start items-center  flex-col px-[20%] gap-5 my-[10%] mb-[20%] text-center text-xl">
+        <div className="w-full flex justify-between items-center flex-col md:flex-row">
+          <div>
+            <p>1:30</p>
+          </div>
+          <div>
+            <p>Intro + Problem Statement</p>
+          </div>
+        </div>
+        <div className="w-full flex justify-between items-center flex-col md:flex-row">
+          <div>
+            <p>1:45</p>
+          </div>
+          <div>
+            <p>Coding Time</p>
+          </div>
+        </div>
+        <div className="w-full flex justify-between items-center flex-col md:flex-row">
+          <div>
+            <p>6:30</p>
+          </div>
+          <div>
+            <p>Lunch Break</p>
+          </div>
+        </div>
+        <div className="w-full flex justify-between items-center flex-col md:flex-row">
+          <div>
+            <p>7:30</p>
+          </div>
+          <div>
+            <p>Coding Time</p>
+          </div>
+        </div>
+        <div className="w-full flex justify-between items-center flex-col md:flex-row">
+          <div>
+            <p>8:30</p>
+          </div>
+          <div>
+            <p>Presentations + results</p>
+          </div>
+        </div>
+      </div>
       <div className="w-full  bg-black text-white flex justify-start items-center text-5xl flex-col px-[15%] gap-5 my-[10%] mb-[20%]">
         <h1 className="text-4xl md:text-6xl">Organizers</h1>
         <div className="w-full flex justify-center">
@@ -88,7 +130,7 @@ const Hack = () => {
                 alt=""
                 className="w-[300px] h-[400px] object-cover rounded-lg"
               />
-              <h1 className="text-3xl mt-2">Lucas</h1>
+              <h1 className="text-3xl mt-5 text-center">Lucas</h1>
             </div>
             <div className="flex flex-col">
               <img
@@ -96,7 +138,7 @@ const Hack = () => {
                 alt=""
                 className="w-[300px] h-[400px] object-cover rounded-lg"
               />
-              <h1 className="text-3xl mt-2">Namda</h1>
+              <h1 className="text-3xl mt-5 text-center">Namda</h1>
             </div>
 
             <div className="flex flex-col">
@@ -105,7 +147,7 @@ const Hack = () => {
                 alt=""
                 className="w-[300px] h-[400px] object-cover rounded-lg"
               />
-              <h1 className="text-3xl mt-2">Dhruva</h1>
+              <h1 className="text-3xl mt-5 text-center">Dhruva</h1>
             </div>
             <div className="flex flex-col">
               <img
@@ -113,7 +155,7 @@ const Hack = () => {
                 alt=""
                 className="w-[300px] h-[400px] object-cover rounded-lg"
               />
-              <h1 className="text-3xl mt-2">Grant</h1>
+              <h1 className="text-3xl mt-5 text-center">Grant</h1>
             </div>
           </div>
         </div>
