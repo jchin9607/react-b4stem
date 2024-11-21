@@ -100,7 +100,7 @@ const Hack = () => {
             <p>6:30</p>
           </div>
           <div>
-            <p>Lunch Break</p>
+            <p>Dinner Break</p>
           </div>
         </div>
         <div className="w-full flex justify-between items-center flex-col md:flex-row">
