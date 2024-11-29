@@ -100,7 +100,7 @@ const Hack = () => {
             <p>6:30</p>
           </div>
           <div>
-            <p>Dinner Break</p>
+            <p>Lunch Break</p>
           </div>
         </div>
         <div className="w-full flex justify-between items-center flex-col md:flex-row">
@@ -118,6 +118,25 @@ const Hack = () => {
           <div>
             <p>Presentations + results</p>
           </div>
+        </div>
+      </div>
+      <div className="w-full  bg-black text-white flex justify-start items-center text-5xl flex-col px-[15%] gap-5 my-[10%] mb-[20%]">
+        <h1 className="text-4xl md:text-6xl">Sponsors</h1>
+        <div className="w-full flex justify-center mt-[10%] gap-11 flex-wrap">
+          <a href=" https://hackclub.com" target="_blank">
+            <img
+              src="https://avatars.githubusercontent.com/u/5633654?s=200&v=4"
+              alt="hack club"
+              className="w-[200px] h-[200px] object-cover rounded-full"
+            />
+          </a>
+          <a href="https://writeup.blog" target="_blank">
+            <img
+              src="https://hcb.hackclub.com/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBKzhMQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--bd206a6e94a8885e598b103af66d8e486a414d97/bakugo.png"
+              alt="writeup"
+              className="w-[200px] h-[200px] object-cover rounded-full"
+            />
+          </a>
         </div>
       </div>
       <div className="w-full  bg-black text-white flex justify-start items-center text-5xl flex-col px-[15%] gap-5 my-[10%] mb-[20%]">
