@@ -48,7 +48,7 @@ const Home = () => {
         </motion.span>
       </div>
       <About />
-      <Team />
+{/*       <Team /> */}
     </>
   );
 };
